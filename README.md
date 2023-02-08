@@ -31,6 +31,12 @@ To train the model from stratch with defult settings, you can run the code
 python main.py
 ```
 
+To train the model on a specific dataset, you can add argument
+
+```
+python main.py -task ("BRCA"|"ROSMAP"|"KIPAN"|"LGG"|"CCM")
+```
+
 If you just want to test the saved model in checkpoints/, you can add argument
 
 ```
