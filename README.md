@@ -19,6 +19,9 @@ pip install -r requirements.txt
 git clone git@github.com:YuxingLu613/HTML.git
 ```
 
+### Dataset
+The BRCA and ROSMAP dataset can be find in [MOGONET](https://github.com/txWang/MOGONET). The KIPAN and LGG dataset can be find in [Google Drive](https://drive.google.com/drive/folders/1HouMHY705LWutSOKVFdlOUbshV4CNp8W?usp=sharing). The CCM dataset will be released soon.
+
 
 ## Usage
 
