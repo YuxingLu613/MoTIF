@@ -20,7 +20,7 @@ git clone git@github.com:YuxingLu613/HTML.git
 ```
 
 ### Dataset
-The BRCA and ROSMAP dataset can be find in [MOGONET](https://github.com/txWang/MOGONET). The KIPAN and LGG dataset can be find in [Google Drive](https://drive.google.com/drive/folders/1HouMHY705LWutSOKVFdlOUbshV4CNp8W?usp=sharing). The CCM dataset will be released soon.
+The BRCA and ROSMAP dataset can be found in [MOGONET](https://github.com/txWang/MOGONET). All the preprocessed datasets can be found in [HTML Datasets](https://drive.google.com/drive/folders/1_tJ2ekhTmWp7ZcRVjUVGx0cqGMRKEhNo?usp=share_link). The pan-cancer dataset can be fetched in [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) program .
 
 
 ## Usage
@@ -49,7 +49,7 @@ If you want to change the number of input modalities, you can change the "uni_mo
 python main.py -uni_modality True -dual_modality False triple_modality False
 ```
 
-If you want to change the hyper-parameters in the model, you can edit the `train_test.py`.
+If you want to change the hyper-parameters in the model, you can edit the `train/train.py`.
 
 
 ## Citation
