@@ -1,11 +1,11 @@
-# HTML
+# MoTIF
 A Highly Trustworthy Multimodal Learning Method on Omics
 
 
 
 ## Getting Started
 
-To get start with HTML, please follow the instructions below.
+To get start with MoTIF, please follow the instructions below.
 
 ### Prerequisites
 
@@ -16,11 +16,11 @@ pip install -r requirements.txt
 ### Installation
 
 ```
-git clone git@github.com:YuxingLu613/HTML.git
+git clone git@github.com:YuxingLu613/MoTIF.git
 ```
 
 ### Dataset
-The BRCA and ROSMAP dataset can be found in [MOGONET](https://github.com/txWang/MOGONET). All the preprocessed datasets can be found in [HTML Datasets](https://drive.google.com/drive/folders/1_tJ2ekhTmWp7ZcRVjUVGx0cqGMRKEhNo?usp=share_link). The pan-cancer dataset can be fetched in [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) program .
+The BRCA and ROSMAP dataset can be found in [MOGONET](https://github.com/txWang/MOGONET). All the preprocessed datasets can be found in [MoTIF Datasets](https://drive.google.com/drive/folders/1_tJ2ekhTmWp7ZcRVjUVGx0cqGMRKEhNo?usp=share_link). The pan-cancer dataset can be fetched in [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) program .
 
 
 ## Usage
